@@ -1,0 +1,28 @@
+{
+	"version": "0.1.0",
+	"name": "promise-http-client",
+	"main": "lib/main.js",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"q": "0.9.x",
+        "q-io": "1.10.x",
+		"log4js": "0.6.x",
+        "underscore": "latest"
+	},
+	"devDependencies": {
+		"nodeunit": "= 0.7.4",
+	    "grunt": "~0.4.1",
+	    "grunt-contrib-clean": "~0.5.0",
+	    "grunt-contrib-jshint": "~0.7.1",
+	    "grunt-newer": "~0.5.4",
+	    "grunt-contrib-nodeunit": "0.2.x",
+	    "load-grunt-tasks": "~0.2.0"
+	},
+	"scripts": {
+		"test": "grunt test"
+	},
+	"repository" : { 
+		"type" : "git",
+		"url" : "https://github.com/oscarrenalias/promise-http-client.git"
+  	}	
+}
