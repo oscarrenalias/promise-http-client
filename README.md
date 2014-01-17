@@ -31,7 +31,7 @@ client.get("http://www.yahoo.com").then(function(body) {
 });
 ```
 
-See the *examples/* folder for a runnable client
+See the *examples/* folder for additional examples, including a JSON client.
 
 Testing
 =======
