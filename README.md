@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/oscarrenalias/promise-http-client.png?branch=master)](https://travis-ci.org/oscarrenalias/promise-http-client)
+
 PromiseHttpClient
 =================
 PromiseHttpClient is a simple promise-based HTTP client based on Q and Q-IO, and provides a nicer approach to dealing
@@ -14,7 +16,7 @@ Usage
 =====
 Use npm to add the library as a dependency to your project:
 
-```npm install --save promise-http-client```
+```npm install --save promise-http-client``
 
 Examples
 ========
