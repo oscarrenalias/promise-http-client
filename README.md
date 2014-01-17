@@ -10,6 +10,12 @@ Current features:
 
 See the *TODO* section below for the list of features not currently supported
 
+Usage
+=====
+Use npm to add the library as a dependency to your project:
+
+```npm install --save promise-http-client```
+
 Examples
 ========
 How to retrieve the Yahoo.com frontpage using the library:
@@ -42,3 +48,7 @@ The following features are in the roadmap:
 - Support for HTTP 302 redirects
 - Implement the remaining HTTP methods (OPTIONS, PATCH, etc)
 - Gzipped requests and responses
+
+License
+=======
+Apache License 2.0: http://www.apache.org/licenses/LICENSE-2.0.html
